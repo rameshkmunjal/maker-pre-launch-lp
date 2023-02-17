@@ -1,7 +1,7 @@
 import LeftHero from "./LeftHero";
 import RightHero from "./RightHero";
 
-const Hero=()=>{
+const Hero=()=>{    
     return(
         <div className="hero-container">
             <LeftHero />
